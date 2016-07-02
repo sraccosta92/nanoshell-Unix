@@ -25,7 +25,7 @@ void shell_std();
 
 //Start
 int main(){
-  char line[512]; // user imput
+  char line[512]; // user input
   char line_cpy[512];
   int  i , index_arg=0;
   char *st;
